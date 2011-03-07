@@ -1,5 +1,5 @@
 Math_Integer
-===========
+============
 
 The class Math_Integer can represent integers bigger than the
 signed longs that are the default of PHP, if either the GMP or
